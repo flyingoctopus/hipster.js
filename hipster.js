@@ -15,5 +15,5 @@
   }
   
   // Current version of the library. Keep in sync with `package.json`.
-  Hipster.VERSION = '0.0.0';
+  Hipster.VERSION = 'what.ever';
 }).call(this);
